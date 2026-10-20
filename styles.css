@@ -1,5 +1,8 @@
 /*  your css code here. If applicable */
-.StudDetails{
+.StudDetails th,
+.StudDetails td,
+.StudDetails tr
+{
 	background-color:yellow;
 	border: 1px solid black;
 }
